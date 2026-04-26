@@ -8,7 +8,7 @@ Ces projets représentent mes débuts en programmation — ils sont simples, imp
 
 Ce dépôt regroupe plusieurs petits programmes Python réalisés lors de mes premières expériences avec le langage. Vous y trouverez différents types d'exercices et de mini-projets qui m'ont aidé à comprendre les bases de la programmation.
 
-## 🛠️ Technologie utilisée
+##  Technologie utilisée
 
 - **Langage :** Python
 
