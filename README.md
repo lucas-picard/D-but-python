@@ -4,7 +4,7 @@ Bienvenue dans ce dépôt ! Vous y trouverez une collection de mes **premiers pr
 
 Ces projets représentent mes débuts en programmation — ils sont simples, imparfaits, mais chacun d'eux m'a permis d'apprendre et de progresser. Je les conserve ici comme trace de mon évolution en tant que développeur.
 
-## 📁 Contenu du dépôt
+##  Contenu du dépôt
 
 Ce dépôt regroupe plusieurs petits programmes Python réalisés lors de mes premières expériences avec le langage. Vous y trouverez différents types d'exercices et de mini-projets qui m'ont aidé à comprendre les bases de la programmation.
 
