@@ -1,5 +1,5 @@
 # Mes Premiers Programmes Python
-
+fzfzfz
 Bienvenue dans ce dépôt ! Vous y trouverez une collection de mes **premiers programmes** écrits en Python.
 
 Ces projets représentent mes débuts en programmation — ils sont simples, imparfaits, mais chacun d'eux m'a permis d'apprendre et de progresser. Je les conserve ici comme trace de mon évolution en tant que développeur.
